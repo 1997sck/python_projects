@@ -1,0 +1,1 @@
+gTTS (Google Text-to-Speech)is a Python library and CLI tool to interface with Google Translate text-to-speech API. ... save function allows us to save the converted speech in a format that allows us to play sounds. I have saved it in a file called hi and in a format called . mp3.
