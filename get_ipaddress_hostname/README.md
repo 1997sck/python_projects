@@ -1,7 +1,6 @@
 
                                         Get Ipaddress and Hostname of Website
-                                      
-                                        Get the ip address and hostname of a website
+                                   
 
                                         Prerequisites
                                         
