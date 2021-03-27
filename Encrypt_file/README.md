@@ -7,6 +7,8 @@
                                 In the cryptography library, there is a cryptography algorithm called fernet. 
                               
                                We will use the fernet module to encrypt the file
+                               
+                               here I used csv file for encryption
                     
                                  Run the Encrypt.py in pycharm 
                         
