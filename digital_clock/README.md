@@ -1,5 +1,5 @@
 
-                                                             Digital Clock using Python and Tkinter
+                                                   Digital Clock using Python and Tkinter
                                                              
                                                              
                                                              Library Usage
