@@ -7,5 +7,5 @@
                                             
                                             Run the String_search_from_multiple_files.py in pycharm
                                             
-                                            In the output, If we give input text it will display the file name 
+                                            In the output, If we give input text it will display the file name with path of the text
 
