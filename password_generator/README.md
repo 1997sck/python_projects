@@ -1,4 +1,4 @@
-                                                                   Python Password Generator
+                                                     Python Password Generator
                                                                    
                                                                    
 THIS SIMPLE PROJECT WAS MADE USING PYCHARM LIBRARY FUNCTIONS LIKE string & random.
