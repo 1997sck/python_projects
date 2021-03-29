@@ -7,7 +7,7 @@ address = input("Input the address: ")
 
 #Your unique private_token should replace value of the private_token variable.
 #To know how to obtain a unique private_token please refer the README file for this script.
-private_token = "pk.b9be515302095133dad021a3bcf9947c"
+private_token = ""
 
 data = {
     'key': private_token,
