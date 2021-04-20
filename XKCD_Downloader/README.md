@@ -16,5 +16,5 @@
                                                 
                                                 xkcd_downloader.py -l 'issue-number'
                                                 
-                                                output will generate the png image file
+                                                output will generate the comics png image file
 
