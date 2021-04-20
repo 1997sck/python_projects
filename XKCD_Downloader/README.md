@@ -1,4 +1,6 @@
                                                             XKCD Downloader
+                                                            
+                                             This script can be used to download any issue of the xkcd comics                     
                                                                        
                                                    Install the following packages in pycharm
                                                              
