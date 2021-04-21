@@ -1,0 +1,331 @@
+--------------------------------------------------------------------------------
+Page 1
+--------------------------------------------------------------------------------
+
+Article Number: 1
+Article Title: Ethereum: A Store of Value with Cash Flow
+Source Website: ethereumcashflow.com
+Source URL: https://ethereumcashflow.com/
+Article Author: spir
+Article Score: 59 points
+Posted: 2 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 2
+Article Title: Tetris-OS: An operating system that only plays Tetris
+Source Website: github.com/jdah
+Source URL: https://github.com/jdah/tetris-os
+Article Author: cconger
+Article Score: 199 points
+Posted: 8 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 3
+Article Title: Apple Introduces AirTag
+Source Website: apple.com
+Source URL: https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/
+Article Author: davidbarker
+Article Score: 771 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 4
+Article Title: Porting Doom to the Fastly edge serverless platform
+Source Website: fastly.com
+Source URL: https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom
+Article Author: kickdaddy
+Article Score: 76 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 5
+Article Title: .NET MAUI: .NET Multi-Platform App UI
+Source Website: github.com/dotnet
+Source URL: https://github.com/dotnet/maui
+Article Author: evo_9
+Article Score: 266 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 6
+Article Title: Quantum astronomy could create telescopes hundreds of kilometers wide
+Source Website: scientificamerican.com
+Source URL: https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/
+Article Author: pseudolus
+Article Score: 64 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 7
+Article Title: Show HN: I'm working on a open-source, self-hosted alternative to Disqus
+Source Website: cusdis.com
+Source URL: https://cusdis.com
+Article Author: djyde
+Article Score: 334 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 8
+Article Title: Show HN: Manuzoid – Database of More Than 1M Manuals
+Source Website: manuzoid.com
+Source URL: https://manuzoid.com/
+Article Author: bitgur
+Article Score: 137 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 9
+Article Title: Grafana, Loki, and Tempo will be relicensed to AGPLv3
+Source Website: grafana.com
+Source URL: https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
+Article Author: WalterSobchak
+Article Score: 647 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 10
+Article Title: Lisp in Forth
+Source Website: github.com/schani
+Source URL: https://github.com/schani/forthlisp
+Article Author: tosh
+Article Score: 120 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 11
+Article Title: .NET for Beginners (2020)
+Source Website: dusted.codes
+Source URL: https://dusted.codes/dotnet-for-beginners
+Article Author: dustinmoris
+Article Score: 149 points
+Posted: 9 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 12
+Article Title: Charm delivers Stripe's carbon removal purchase ahead of schedule
+Source Website: charmindustrial.com
+Source URL: https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase
+Article Author: etxm
+Article Score: 179 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 13
+Article Title: The Landlord's Game
+Source Website: wikipedia.org
+Source URL: https://en.wikipedia.org/wiki/The_Landlord%27s_Game
+Article Author: mmlkrx
+Article Score: 136 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 14
+Article Title: Prototype Pollution (2020)
+Source Website: portswigger.net
+Source URL: https://portswigger.net/daily-swig/prototype-pollution-the-dangerous-and-underrated-vulnerability-impacting-javascript-applications
+Article Author: valand
+Article Score: 25 points
+Posted: 4 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 15
+Article Title: Has a remote Amazonian tribe upended our understanding of language? (2007)
+Source Website: newyorker.com
+Source URL: https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2
+Article Author: benbreen
+Article Score: 34 points
+Posted: 7 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 16
+Article Title: Git from the Bottom Up (2008)
+Source Website: jwiegley.github.io
+Source URL: https://jwiegley.github.io/git-from-the-bottom-up/
+Article Author: sharjeelsayed
+Article Score: 133 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 17
+Article Title: Our Funniest Front-End Bugs (2020)
+Source Website: medium.com/thron-tech
+Source URL: https://medium.com/thron-tech/our-funniest-front-end-bugs-eb374b4d6ebc
+Article Author: behoove
+Article Score: 5 points
+Posted: 2 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 18
+Article Title: Tongue Twisters: In search of the world’s hardest language (2009)
+Source Website: economist.com
+Source URL: https://www.economist.com/christmas-specials/2009/12/17/tongue-twisters
+Article Author: footest
+Article Score: 10 points
+Posted: 3 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 19
+Article Title: Continued Fractions in Haskell
+Source Website: cdsmithus.medium.com
+Source URL: https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f
+Article Author: gbrown_
+Article Score: 63 points
+Posted: 8 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 20
+Article Title: Discord ends deal talks with Microsoft
+Source Website: wsj.com
+Source URL: https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806
+Article Author: coloneltcb
+Article Score: 532 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 21
+Article Title: Pulumi 3.0
+Source Website: pulumi.com
+Source URL: https://www.pulumi.com/blog/pulumi-3-0/
+Article Author: bovermyer
+Article Score: 276 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 22
+Article Title: The Greshm System [pdf]
+Source Website: greshm.org
+Source URL: https://www.greshm.org/files/greshm.pdf
+Article Author: Suncho
+Article Score: 16 points
+Posted: 5 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 23
+Article Title: Show HN: Ruby code and tools for animating Voronoi diagrams
+Source Website: github.com/mike-bourgeous
+Source URL: https://github.com/mike-bourgeous/mb-geometry
+Article Author: nitrogen
+Article Score: 44 points
+Posted: 9 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 24
+Article Title: European Super League collapsing as all six English clubs withdraw
+Source Website: theguardian.com
+Source URL: https://www.theguardian.com/football/2021/apr/20/european-super-league-unravelling-as-manchester-city-and-chelsea-withdraw
+Article Author: Tomte
+Article Score: 30 points
+Posted: 1 hour ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 25
+Article Title: AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators
+Source Website: atob.co
+Source URL: https://atob.co/careers
+Article Author: Could not get article author
+Article Score: Not Scored
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 26
+Article Title: Show HN: Mongita is to MongoDB as SQLite is to SQL
+Source Website: github.com/scottrogowski
+Source URL: https://github.com/scottrogowski/mongita
+Article Author: scottrogowski
+Article Score: 75 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 27
+Article Title: Car Connectivity Consortium
+Source Website: carconnectivity.org
+Source URL: https://carconnectivity.org/
+Article Author: Austin_Conlon
+Article Score: 45 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 28
+Article Title: YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube
+Source Website: newsweek.com
+Source URL: https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147
+Article Author: arprocter
+Article Score: 498 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 29
+Article Title: The Endless Acid Banger: algorithmic self-composing acid techno music
+Source Website: vitling.xyz
+Source URL: https://www.vitling.xyz/toys/acid-banger/
+Article Author: clomond
+Article Score: 1039 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 30
+Article Title: Researcher says he can link Facebook accounts to 5M email addresses per day
+Source Website: arstechnica.com
+Source URL: https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/
+Article Author: pseudolus
+Article Score: 77 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------

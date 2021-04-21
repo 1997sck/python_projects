@@ -1,0 +1,331 @@
+--------------------------------------------------------------------------------
+Page 4
+--------------------------------------------------------------------------------
+
+Article Number: 91
+Article Title: Why Specifications Don't Compose
+Source Website: hillelwayne.com
+Source URL: https://www.hillelwayne.com/post/spec-composition/
+Article Author: msiemens
+Article Score: 110 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 92
+Article Title: Decentralized data storage has finally landed
+Source Website: storj.io
+Source URL: https://www.storj.io/
+Article Author: alessandroetc
+Article Score: 33 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 93
+Article Title: Understanding Indirect Time-of-Flight Depth Sensing
+Source Website: microsoft.com
+Source URL: https://devblogs.microsoft.com/azure-depth-platform/understanding-indirect-tof-depth-sensing/
+Article Author: giuliomagnifico
+Article Score: 84 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 94
+Article Title: A curated list of JavaScript tooling not written in JavaScript
+Source Website: github.com/robincsl
+Source URL: https://github.com/RobinCsl/awesome-js-tooling-not-in-js
+Article Author: kantord
+Article Score: 112 points
+Posted: 22 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 95
+Article Title: Neighbour manages to pollute the 2.4 ghz spectrum with his 120 IoT devices
+Source Website: devrant.com
+Source URL: https://devrant.com/rants/4186069/dev-my-neighbours-have-so-many-fucking-iot-devices-that-they-basically-fuck-over
+Article Author: akshayt
+Article Score: 263 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 96
+Article Title: Basic Music Theory in ~200 Lines of Python
+Source Website: mvanga.com
+Source URL: https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
+Article Author: mvanga
+Article Score: 437 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 97
+Article Title: You Are Not ‘Behind’ (2016)
+Source Website: zackkanter.com
+Source URL: https://zackkanter.com/2016/01/13/you-are-not-behind/
+Article Author: enigmatic02
+Article Score: 234 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 98
+Article Title: Show HN: I made a Hacker News for the automotive industry
+Source Website: autonews.io
+Source URL: https://autonews.io
+Article Author: trizoza
+Article Score: 231 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 99
+Article Title: Wormhole-crypto: Streaming encryption based on Encrypted Content-Encoding
+Source Website: github.com/socketdev
+Source URL: https://github.com/SocketDev/wormhole-crypto
+Article Author: feross
+Article Score: 59 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 100
+Article Title: YouTube CEO receives freedom of expression award sponsored by YouTube itself
+Source Website: marketresearchtelecast.com
+Source URL: https://marketresearchtelecast.com/youtube-ceo-receives-freedom-of-expression-award-sponsored-by-the-video-platform-itself/34449/
+Article Author: the-dude
+Article Score: 476 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 101
+Article Title: Show HN: Curated Moon site to learn why explore the Moon as we send humans again
+Source Website: jatan.space
+Source URL: https://ourmoon.jatan.space/
+Article Author: uncertainquark
+Article Score: 11 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 102
+Article Title: Prolog for Beginners
+Source Website: coursera.org
+Source URL: https://www.coursera.org/projects/prolog-for-beginners-fhqrd
+Article Author: YeGoblynQueenne
+Article Score: 97 points
+Posted: 21 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 103
+Article Title: Drones Light Up Shanghai’s Sky with a QR Code
+Source Website: vice.com
+Source URL: https://www.vice.com/en/article/88n9vb/shanghai-drone-show-qr-code
+Article Author: alanwong
+Article Score: 77 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 104
+Article Title: Remove Background Image Automatically
+Source Website: remove.bg
+Source URL: https://www.remove.bg/
+Article Author: gohurnd
+Article Score: 10 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 105
+Article Title: IBM employee forced to stop kernel work under personal email address
+Source Website: kernel.org
+Source URL: https://git.kernel.org/pub/scm/linux/kernel/git/netdev/net.git/commit/?id=4acd47644ef1e1c8f8f5bc40b7cf1c5b9bcbbc4e
+Article Author: ibmthrwy
+Article Score: 665 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 106
+Article Title: Dissecting the Apple M1 GPU, Part III
+Source Website: rosenzweig.io
+Source URL: https://rosenzweig.io/blog/asahi-gpu-part-3.html
+Article Author: marcodiego
+Article Score: 509 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 107
+Article Title: Software Infrastructure 2.0: A Wishlist
+Source Website: erikbern.com
+Source URL: https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
+Article Author: klintcho
+Article Score: 315 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 108
+Article Title: Shadow Simulator – run real applications over a simulated Internet topology
+Source Website: shadow.github.io
+Source URL: https://shadow.github.io/
+Article Author: pabs3
+Article Score: 155 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 109
+Article Title: DIY Camera Using Raspberry Pi
+Source Website: ruha.camera
+Source URL: https://ruha.camera/
+Article Author: the_arun
+Article Score: 217 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 110
+Article Title: In ‘The Twelve Lives of Alfred Hitchcock,’ the contradictions made the man
+Source Website: washingtonpost.com
+Source URL: https://www.washingtonpost.com/entertainment/books/alfred-hitchcock-edward-white-review/2021/04/12/1865aec6-9968-11eb-b28d-bfa7bb5cb2a5_story.html
+Article Author: prismatic
+Article Score: 21 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 111
+Article Title: YouTube demonetises James Charles over sexual misconduct allegations
+Source Website: theguardian.com
+Source URL: https://www.theguardian.com/fashion/2021/apr/20/youtube-james-charles-demonetised-allegations-sexting-underage-minors
+Article Author: notyourday
+Article Score: 13 points
+Posted: 9 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 112
+Article Title: Home ownership is the West’s biggest economic-policy mistake
+Source Website: economist.com
+Source URL: https://www.economist.com/leaders/2020/01/16/home-ownership-is-the-wests-biggest-economic-policy-mistake
+Article Author: known
+Article Score: 214 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 113
+Article Title: Technologies could hold back business travel
+Source Website: wsj.com
+Source URL: https://www.wsj.com/articles/these-technologies-could-hold-back-business-travel-indefinitely-11618632059
+Article Author: prostoalex
+Article Score: 26 points
+Posted: 3 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 114
+Article Title: Cloudflare Images
+Source Website: cloudflare.com
+Source URL: https://blog.cloudflare.com/announcing-cloudflare-images-beta/
+Article Author: jgrahamc
+Article Score: 53 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 115
+Article Title: Cosmism: Russia's Religion for the Rocket Age
+Source Website: bbc.com
+Source URL: https://www.bbc.com/future/article/20210420-cosmism-russias-religion-for-the-rocket-age
+Article Author: pseudolus
+Article Score: 5 points
+Posted: 5 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 116
+Article Title: How often do people copy and paste from Stack Overflow?
+Source Website: stackoverflow.blog
+Source URL: https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/
+Article Author: prakhargurunani
+Article Score: 204 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 117
+Article Title: New Chia coin crypto with Proof of Space may create shortage of storage device
+Source Website: wccftech.com
+Source URL: https://wccftech.com/dedicated-cryptocurrency-mining-ssds-in-production-chia-coin-rise/
+Article Author: AceSlash
+Article Score: 28 points
+Posted: 13 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 118
+Article Title: The Last Men’s Hotel in Chicago
+Source Website: newrepublic.com
+Source URL: https://newrepublic.com/article/161808/ewing-annex-hotel-housing-crisis-chicago
+Article Author: kgwgk
+Article Score: 88 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 119
+Article Title: GCC 11.1 RC Released, GCC 12 in Development on Trunk
+Source Website: phoronix.com
+Source URL: https://www.phoronix.com/scan.php?page=news_item&px=GCC-11.1-RC1
+Article Author: rbanffy
+Article Score: 17 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 120
+Article Title: Product placements may be added to classic films
+Source Website: bbc.co.uk
+Source URL: https://www.bbc.co.uk/news/business-56758376
+Article Author: daverol
+Article Score: 41 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------

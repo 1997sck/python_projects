@@ -1,0 +1,331 @@
+--------------------------------------------------------------------------------
+Page 2
+--------------------------------------------------------------------------------
+
+Article Number: 31
+Article Title: Margin Notes: Automatic documentation with recorded examples from runtime (2018)
+Source Website: geoffreylitt.com
+Source URL: https://www.geoffreylitt.com/margin-notes/
+Article Author: yellowyacht
+Article Score: 34 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 32
+Article Title: UK government: no more smart motorways without stopped car detection
+Source Website: autocar.co.uk
+Source URL: https://www.autocar.co.uk/car-news/industry-news-safety/uk-government-no-more-smart-motorways-without-stopped-car-detection
+Article Author: clouddrover
+Article Score: 28 points
+Posted: 3 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 33
+Article Title: Heating Water with Fire (2019)
+Source Website: homewoodstoves.co.nz
+Source URL: https://www.homewoodstoves.co.nz/resources/heating-water-with-fire/
+Article Author: ciconia
+Article Score: 102 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 34
+Article Title: Sunny Land – A WebGL Playground Platformer
+Source Website: github.com/passiomatic
+Source URL: https://github.com/passiomatic/sunny-land
+Article Author: timf
+Article Score: 29 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 35
+Article Title: Facebook wants to 'normalize' the mass scraping of personal data
+Source Website: vice.com
+Source URL: https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data
+Article Author: gbrown_
+Article Score: 214 points
+Posted: 13 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 36
+Article Title: mRNA vaccines – a new era in vaccinology (2018)
+Source Website: nature.com
+Source URL: https://www.nature.com/articles/nrd.2017.243
+Article Author: elsewhen
+Article Score: 182 points
+Posted: 16 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 37
+Article Title: Dating Sites Are Not Built for Men
+Source Website: sashachapin.substack.com
+Source URL: https://sashachapin.substack.com/p/dating-sites-are-not-built-for-men
+Article Author: exolymph
+Article Score: 38 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 38
+Article Title: Spotify is killing the open podcast ecosystem (2020)
+Source Website: singhkays.com
+Source URL: https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/
+Article Author: dede4metal
+Article Score: 404 points
+Posted: 23 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 39
+Article Title: Reading the AGPL
+Source Website: kemitchell.com
+Source URL: https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html
+Article Author: sealeck
+Article Score: 113 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 40
+Article Title: Remote Code Execution Found in CocoaPods
+Source Website: justi.cz
+Source URL: https://justi.cz/security/2021/04/20/cocoapods-rce.html
+Article Author: st3fan
+Article Score: 212 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 41
+Article Title: Ask HN: Show me the sexy, sexy home page of your favorite free CLI project
+Source Website: https://news.ycombinator.com
+Source URL: https://news.ycombinator.com/item?id=26878936
+Article Author: tomcam
+Article Score: 131 points
+Posted: 13 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 42
+Article Title: Cicoparser: Full game reverse engineering [video]
+Source Website: youtube.com
+Source URL: https://www.youtube.com/watch?v=4fAeUx8A-OE
+Article Author: gabonator
+Article Score: 51 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 43
+Article Title: Cerebras Unveils Wafer Scale Engine Two (WSE2): 2.6T Transistors, 100% Yield
+Source Website: anandtech.com
+Source URL: https://www.anandtech.com/show/16626/cerebras-unveils-wafer-scale-engine-two-wse2-26-trillion-transistors-100-yield
+Article Author: rbanffy
+Article Score: 24 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 44
+Article Title: Show HN: I built a tool to remove unwanted elements from photos
+Source Website: cutout.pro
+Source URL: https://www.cutout.pro/imageRetouch.html
+Article Author: eraque
+Article Score: 28 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 45
+Article Title: My Love Affair with Dozens (1972) [pdf]
+Source Website: dozenal.org
+Source URL: https://news.ycombinator.com/http://www.dozenal.org/articles/DSA-MyLoveAffair.pdf
+Article Author: dalke
+Article Score: 50 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 46
+Article Title: Preparing Rustls for Wider Adoption
+Source Website: abetterinternet.org
+Source URL: https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/
+Article Author: jaas
+Article Score: 217 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 47
+Article Title: Include-what-you-use: A tool to analyze includes in C and C++ source files
+Source Website: include-what-you-use.org
+Source URL: https://include-what-you-use.org/
+Article Author: st_goliath
+Article Score: 144 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 48
+Article Title: Cerebras Systems Smashes the 2.5T Transistor Mark
+Source Website: businesswire.com
+Source URL: https://www.businesswire.com/news/home/20210420005955/en/Cerebras-Systems-Smashes-the-2.5-Trillion-Transistor-Mark-with-New-Second-Generation-Wafer-Scale-Engine
+Article Author: moritzmeister
+Article Score: 7 points
+Posted: 2 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 49
+Article Title: $70 3D printed Manual Espresso Machine
+Source Website: imgur.com
+Source URL: https://imgur.com/a/F4vyILP
+Article Author: ronyfadel
+Article Score: 11 points
+Posted: 4 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 50
+Article Title: Mastodon Renaming “Toots” to “Posts”
+Source Website: github.com/tootsuite
+Source URL: https://github.com/tootsuite/mastodon/pull/16080
+Article Author: pitermach
+Article Score: 108 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 51
+Article Title: Power consumption of Game Boy flash cartridges
+Source Website: gekkio.fi
+Source URL: https://gekkio.fi/blog/2021/power-consumption-of-game-boy-flash-cartridges/
+Article Author: zdw
+Article Score: 271 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 52
+Article Title: Node.js 16 Available Now
+Source Website: nodejs.medium.com
+Source URL: https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70
+Article Author: ilkkao
+Article Score: 288 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 53
+Article Title: Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore
+Source Website: shepherd.com
+Source URL: https://shepherd.com/
+Article Author: bwb
+Article Score: 284 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 54
+Article Title: Foxconn reaches new deal with Wisconsin on scaled-back US plant
+Source Website: nikkei.com
+Source URL: https://asia.nikkei.com/Business/Technology/Foxconn-reaches-new-deal-with-Wisconsin-on-scaled-back-US-plant
+Article Author: ytch
+Article Score: 6 points
+Posted: 7 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 55
+Article Title: Graphic Designers Have Always Loved Minimalism. But at What Cost?
+Source Website: aiga.org
+Source URL: https://eyeondesign.aiga.org/graphic-designers-have-always-loved-minimalism-but-at-what-cost/
+Article Author: pepys
+Article Score: 72 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 56
+Article Title: The “Granny Knot”
+Source Website: fieggen.com
+Source URL: https://www.fieggen.com/shoelace/grannyknot.htm
+Article Author: Tomte
+Article Score: 639 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 57
+Article Title: Prank Windows XP simulator
+Source Website: geekprank.com
+Source URL: https://geekprank.com/
+Article Author: vncajules
+Article Score: 186 points
+Posted: 16 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 58
+Article Title: Dr. Quinn official website from 1998, still online
+Source Website: drquinnmd.com
+Source URL: https://www.drquinnmd.com/
+Article Author: pkorzeniewski
+Article Score: 83 points
+Posted: 8 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 59
+Article Title: Hackers post 25,971 files stolen from Broward schools
+Source Website: sun-sentinel.com
+Source URL: https://www.sun-sentinel.com/news/education/fl-ne-broward-schools-hackers-post-files-20210419-mypt2qtlc5a7xela4x6bcg5hdy-story.html#nt=tertiarynavbar&nt=ticker
+Article Author: yellowyacht
+Article Score: 68 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 60
+Article Title: Geico data breach exposed customers’ driver’s license numbers
+Source Website: theverge.com
+Source URL: https://www.theverge.com/2021/4/19/22392566/geico-data-breach-exposed-customer-drivers-license-numbers-security
+Article Author: PretzelFisch
+Article Score: 133 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------

@@ -1,0 +1,324 @@
+--------------------------------------------------------------------------------
+Page 5
+--------------------------------------------------------------------------------
+
+Article Number: 121
+Article Title: How does Startups pay salaries when they raise only 125k USD?
+Source Website: https://news.ycombinator.com
+Source URL: https://news.ycombinator.com/item?id=26884431
+Article Author: v8dev123
+Article Score: 6 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 122
+Article Title: What's Next for Visual Studio?
+Source Website: theregister.com
+Source URL: https://www.theregister.com/2021/04/20/what_next_for_visual_studio/
+Article Author: thebetatester
+Article Score: 5 points
+Posted: 5 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 123
+Article Title: Manage Work, Not People
+Source Website: diego-pacheco.blogspot.com
+Source URL: https://news.ycombinator.com/http://diego-pacheco.blogspot.com/2021/04/manage-work-not-people.html
+Article Author: diegopacheco
+Article Score: 28 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 124
+Article Title: Stealthy Dopant-Level Hardware Trojans (2013) [pdf]
+Source Website: iacr.org
+Source URL: https://www.iacr.org/archive/ches2013/80860203/80860203.pdf
+Article Author: weinzierl
+Article Score: 37 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 125
+Article Title: Tail latency might matter more than you think
+Source Website: brooker.co.za
+Source URL: https://brooker.co.za/blog/2021/04/19/latency.html
+Article Author: timf
+Article Score: 91 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 126
+Article Title: Open source self-hostable auth0 alternative
+Source Website: github.com/supertokens
+Source URL: https://github.com/supertokens/supertokens-core
+Article Author: cheeseblubber
+Article Score: 6 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 127
+Article Title: Association of sleep duration in middle and old age with incidence of dementia
+Source Website: nature.com
+Source URL: https://www.nature.com/articles/s41467-021-22354-2
+Article Author: he0001
+Article Score: 4 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 128
+Article Title: Bank of England to explore a potential Central Bank Digital Currency
+Source Website: bankofengland.co.uk
+Source URL: https://www.bankofengland.co.uk/news/2021/april/bank-of-england-statement-on-central-bank-digital-currency
+Article Author: tyho
+Article Score: 230 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 129
+Article Title: Microsoft says mandatory password changing is “ancient and obsolete” (2019)
+Source Website: arstechnica.com
+Source URL: https://arstechnica.com/information-technology/2019/06/microsoft-says-mandatory-password-changing-is-ancient-and-obsolete/
+Article Author: Tomte
+Article Score: 785 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 130
+Article Title: DefCon's Warrant Canary Expired
+Source Website: defcon.org
+Source URL: https://defcon.org/html/links/dc-canary.html
+Article Author: aestetix
+Article Score: 31 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 131
+Article Title: Deriving the piano keyboard from biological principles using clustering
+Source Website: fiftysevendegreesofrad.github.io
+Source URL: https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html
+Article Author: harperlee
+Article Score: 219 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 132
+Article Title: Stamper
+Source Website: p5stamper.com
+Source URL: https://p5stamper.com/
+Article Author: smusamashah
+Article Score: 15 points
+Posted: 16 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 133
+Article Title: Representing SHA-256 Hashes as Avatars
+Source Website: francoisbest.com
+Source URL: https://francoisbest.com/posts/2021/hashvatars?demo=Hello,%20Hacker%20News%21
+Article Author: franky47
+Article Score: 198 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 134
+Article Title: Reddit Search: A search engine for Reddit indexable by user, subreddit, and date
+Source Website: camas.github.io
+Source URL: https://camas.github.io/reddit-search/
+Article Author: lawrenceyan
+Article Score: 82 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 135
+Article Title: American Humanist Association Statement Withdrawing Honor from Richard Dawkins
+Source Website: americanhumanist.org
+Source URL: https://americanhumanist.org/news/american-humanist-association-board-statement-withdrawing-honor-from-richard-dawkins/
+Article Author: thinkingemote
+Article Score: 24 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 136
+Article Title: Job board to work on problems like climate change and food insecurity
+Source Website: goodjobs.careers
+Source URL: https://goodjobs.careers/
+Article Author: tndl
+Article Score: 196 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 137
+Article Title: Open source “split-flap” mechanical display
+Source Website: github.com/scottbez1
+Source URL: https://github.com/scottbez1/splitflap
+Article Author: deeyago
+Article Score: 290 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 138
+Article Title: Pandemic Prices: Assessing Inflation in the Months and Years Ahead
+Source Website: whitehouse.gov
+Source URL: https://www.whitehouse.gov/briefing-room/blog/2021/04/12/pandemic-prices-assessing-inflation-in-the-months-and-years-ahead/
+Article Author: mgh2
+Article Score: 5 points
+Posted: 2 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 139
+Article Title: OpenAI-Powered Linux Shell Uses AI to Do What You Mean
+Source Website: onfabrica.com
+Source URL: https://riveducha.onfabrica.com/openai-powered-linux-shell
+Article Author: plake
+Article Score: 8 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 140
+Article Title: All-new iMac features the M1 chip
+Source Website: apple.com
+Source URL: https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
+Article Author: davidbarker
+Article Score: 300 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 141
+Article Title: J2 open processor: an open source processor using the SuperH ISA
+Source Website: j-core.org
+Source URL: https://j-core.org/
+Article Author: rdpintqogeogsaa
+Article Score: 99 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 142
+Article Title: Daily Mail owner files antitrust suit against Google in US
+Source Website: yahoo.com
+Source URL: https://ca.finance.yahoo.com/news/daily-mail-owner-files-antitrust-164641863.html
+Article Author: johncena33
+Article Score: 19 points
+Posted: 13 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 143
+Article Title: What's in the Box?
+Source Website: fasterthanli.me
+Source URL: https://fasterthanli.me/articles/whats-in-the-box
+Article Author: milliams
+Article Score: 165 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 144
+Article Title: Show HN: React Flow – library for creating node based editors and apps
+Source Website: github.com/wbkd
+Source URL: https://github.com/wbkd/react-flow
+Article Author: moklick
+Article Score: 217 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 145
+Article Title: Yayagram, built with Raspberry Pi to help the elderly communicate via Telegram
+Source Website: asapland.com
+Source URL: https://asapland.com/yayagram-or-how-to-use-a-raspberry-pi-to-help-the-elderly-communicate-with-their-grandchildren-via-telegram/74795/
+Article Author: botverse
+Article Score: 4 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 146
+Article Title: Livebook: A collaborative and interactive code notebook for Elixir
+Source Website: dashbit.co
+Source URL: https://dashbit.co/blog/announcing-livebook?new=1
+Article Author: bcardarella
+Article Score: 577 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 147
+Article Title: PiDP-11 – Recreating PDP-11/70 with Raspberry Pi
+Source Website: retroviator.com
+Source URL: https://retroviator.com/2020/03/01/pidp-11/
+Article Author: todsacerdoti
+Article Score: 116 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 148
+Article Title: Can We Terraform Mars?
+Source Website: planetary.org
+Source URL: https://www.planetary.org/articles/can-we-make-mars-earth-like-through-terraforming
+Article Author: piplikoc
+Article Score: 15 points
+Posted: 13 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 149
+Article Title: Geico data breach exposed customers' driver's license numbers
+Source Website: bleepingcomputer.com
+Source URL: https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/
+Article Author: jbredeche
+Article Score: 8 points
+Posted: 21 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 150

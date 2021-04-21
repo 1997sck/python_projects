@@ -1,0 +1,331 @@
+--------------------------------------------------------------------------------
+Page 3
+--------------------------------------------------------------------------------
+
+Article Number: 61
+Article Title: A database of old book illustrations
+Source Website: oldbookillustrations.com
+Source URL: https://www.oldbookillustrations.com/
+Article Author: honatommy
+Article Score: 17 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 62
+Article Title: Apple TV 4K Gets A12 Bionic
+Source Website: apple.com
+Source URL: https://www.apple.com/apple-tv-4k/
+Article Author: cameron_b
+Article Score: 319 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 63
+Article Title: Software designers, not engineers: An interview from alternative universe
+Source Website: tomasp.net
+Source URL: https://news.ycombinator.com/http://tomasp.net/blog/2021/software-designers/
+Article Author: spdegabrielle
+Article Score: 142 points
+Posted: 20 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 64
+Article Title: Show HN: The simplest React state manager now at stable release
+Source Website: simpler-state.js.org
+Source URL: https://simpler-state.js.org
+Article Author: aenero
+Article Score: 92 points
+Posted: 22 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 65
+Article Title: An opinionated map of incremental and streaming systems (2018)
+Source Website: scattered-thoughts.net
+Source URL: https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems
+Article Author: mpweiher
+Article Score: 32 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 66
+Article Title: Everybody Hates “FLoC”
+Source Website: arstechnica.com
+Source URL: https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/
+Article Author: giuliomagnifico
+Article Score: 59 points
+Posted: 6 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 67
+Article Title: PSPad: A freeware programmer's editor for Windows
+Source Website: pspad.com
+Source URL: https://www.pspad.com/en/
+Article Author: open-source-ux
+Article Score: 76 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 68
+Article Title: New iMac with Vesa Mount
+Source Website: apple.com
+Source URL: https://www.apple.com/shop/buy-mac/imac-vesa
+Article Author: fumar
+Article Score: 37 points
+Posted: 8 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 69
+Article Title: iPad Pro M1
+Source Website: apple.com
+Source URL: https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/
+Article Author: tosh
+Article Score: 341 points
+Posted: 14 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 70
+Article Title: Bug in Notepad Involving Asterisk in Title Bar
+Source Website: suszter.com
+Source URL: https://suszter.com/reversingonwindows/bug-in-notepad-involving-asterisk-in-title-bar
+Article Author: ReversingOnWin
+Article Score: 142 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 71
+Article Title: Munin Website Redesigned
+Source Website: munin-monitoring.org
+Source URL: https://munin-monitoring.org/
+Article Author: ashitlerferad
+Article Score: 111 points
+Posted: 20 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 72
+Article Title: The Hotdog web browser and browser engine
+Source Website: github.com/danfragoso
+Source URL: https://github.com/danfragoso/thdwb
+Article Author: pabs3
+Article Score: 299 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 73
+Article Title: A Connecticut inn has hosted sea chantey singalongs for half a century
+Source Website: atlasobscura.com
+Source URL: https://www.atlasobscura.com/articles/sea-shanty-new-england
+Article Author: wglb
+Article Score: 63 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 74
+Article Title: N.H.-Based Video Platform Attracts Users Banned Elsewhere
+Source Website: nhpr.org
+Source URL: https://www.nhpr.org/post/cooking-videos-qanon-nh-based-video-platform-attracts-users-banned-elsewhere#stream/0
+Article Author: foxhound6
+Article Score: 19 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 75
+Article Title: Zenreader: A 4.7" E-Ink RSS Reader
+Source Website: tnhh.net
+Source URL: https://www.tnhh.net/posts/zenreader-4.7-in-rss-eink-reader.html
+Article Author: ca98am79
+Article Score: 344 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 76
+Article Title: Ambigrammatic Figures (2020)
+Source Website: github.com/golanlevin
+Source URL: https://github.com/golanlevin/AmbigrammaticFigures
+Article Author: EvgeniyZh
+Article Score: 30 points
+Posted: 19 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 77
+Article Title: Open Source Goes to Mars
+Source Website: github.blog
+Source URL: https://github.blog/2021-04-19-open-source-goes-to-mars/
+Article Author: Thrymr
+Article Score: 284 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 78
+Article Title: Mac mini is now configurable with 10 Gigabit Ethernet
+Source Website: apple.com
+Source URL: https://www.apple.com/mac-mini/specs/
+Article Author: fomine3
+Article Score: 36 points
+Posted: 7 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 79
+Article Title: Small cities in America’s Mountain West are booming
+Source Website: economist.com
+Source URL: https://www.economist.com/united-states/2021/04/10/small-cities-in-americas-mountain-west-are-booming
+Article Author: prostoalex
+Article Score: 217 points
+Posted: 1 day ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 80
+Article Title: Auth0 Has been down for almost 4 hours now
+Source Website: https://news.ycombinator.com
+Source URL: https://news.ycombinator.com/item?id=26880147
+Article Author: inssein
+Article Score: 186 points
+Posted: 12 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 81
+Article Title: Python Software Foundation Is Hiring a Python Packaging Project Manager
+Source Website: pyfound.blogspot.com
+Source URL: https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html
+Article Author: rbanffy
+Article Score: 88 points
+Posted: 11 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 82
+Article Title: Assembly vs. Intrinsics
+Source Website: danluu.com
+Source URL: https://danluu.com/assembly-intrinsics/
+Article Author: lelf
+Article Score: 15 points
+Posted: 15 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 83
+Article Title: India’s Mini-Craze for Bicycling Around the World
+Source Website: atlasobscura.com
+Source URL: https://www.atlasobscura.com/articles/indians-who-cycled-around-the-world
+Article Author: CapitalistCartr
+Article Score: 100 points
+Posted: 23 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 84
+Article Title: The idea that everything is conscious is gaining academic credibility (2018)
+Source Website: qz.com
+Source URL: https://qz.com/1184574/the-idea-that-everything-from-spoons-to-stones-are-conscious-is-gaining-academic-credibility/
+Article Author: herbertl
+Article Score: 32 points
+Posted: 10 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 85
+Article Title: FiiO M3K review – a pocketable-high quality audio player (2018)
+Source Website: accessibleaudio.co
+Source URL: https://accessibleaudio.co/2018/12/27/fiio-m3k-review-a-pocketable-high-quality-audio-player/
+Article Author: walterbell
+Article Score: 79 points
+Posted: 20 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 86
+Article Title: Forced unemployment and second-class status: Google's data center contractors
+Source Website: protocol.com
+Source URL: https://www.protocol.com/google-contractors-forced-unemployment
+Article Author: recursion
+Article Score: 227 points
+Posted: 18 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 87
+Article Title: Large-Scale Abuse of Contact Discovery in Mobile Messengers [pdf]
+Source Website: ndss-symposium.org
+Source URL: https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf
+Article Author: weinzierl
+Article Score: 397 points
+Posted: 2 days ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 88
+Article Title: Ask HN: How do you keep track of releases/deployments of dozens micro-services?
+Source Website: https://news.ycombinator.com
+Source URL: https://news.ycombinator.com/item?id=26872904
+Article Author: Kunix
+Article Score: 130 points
+Posted: 21 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 89
+Article Title: Robinhood Files S-1
+Source Website: robinhood.com
+Source URL: https://blog.robinhood.com/news/2021/3/23/robinhood-markets-inc-confidentially-submits-draft-registration-statement
+Article Author: nslice
+Article Score: 83 points
+Posted: 17 hours ago
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+Article Number: 90
+Article Title: Herman and the Serpent
+Source Website: northandsouth.co.nz
+Source URL: https://northandsouth.co.nz/2021/04/13/serpent-herman-knippenberg/
+Article Author: pshaw
+Article Score: 16 points
+Posted: 21 hours ago
+--------------------------------------------------------------------------------
