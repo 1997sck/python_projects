@@ -1,0 +1,1 @@
+[['sangeetha', '001', '98653761211', 'san@gmail.com', '20000'], ['dimpana', '002', '98727545345', 'dimpu@gmail.com', '30000'], ['rohith', '003', '876357681221', 'rohith@gmail.com', '50000'], ['ruhi', '004', '87352711334', 'ruhi@gmail.com', '60000'], ['pooja', '004', '87523456098', 'pooja@gmail.com', '80000']]
