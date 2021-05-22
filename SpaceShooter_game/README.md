@@ -9,4 +9,6 @@
                                       
                                       Navigate to the project folder in command prompt
                                       
-                                Run the executable named spaceShooter inside the extracted file.                  
+                                Run the executable named spaceShooter inside the extracted file.     
+                                
+                                    Output generate game window Now we can Play SpaceShooter game
