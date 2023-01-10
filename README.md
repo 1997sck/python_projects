@@ -4,7 +4,7 @@ This script shuts down or restarts your computer
 
 Prerequisites
 
-None
+None,
 
 How to run the script
 Steps on how to run the script along with suitable examples.
